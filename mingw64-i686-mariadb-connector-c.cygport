@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross cmake
 
 NAME="mingw64-i686-mariadb-connector-c"
-VERSION=2.3.1
+VERSION=2.3.3
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="MySQL client library for Win32 toolchain"
